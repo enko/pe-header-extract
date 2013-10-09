@@ -3,5 +3,6 @@
   "type": "library",
   "description": "Extracting pe headers from exe files",
   "keywords": ["exe","pe"],
+  "license": "MIT",
   "homepage": "https://github.com/enko/pe-header-extract"
 }
