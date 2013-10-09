@@ -1,3 +1,7 @@
 {
-  "name": "enko/peheaderextract"
+  "name": "enko/peheaderextract",
+  "type": "library",
+  "description": "Extracting pe headers from exe files",
+  "keywords": ["exe","pe"],
+  "homepage": "https://github.com/enko/pe-header-extract"
 }
